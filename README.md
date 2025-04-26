@@ -49,10 +49,9 @@ Currently, I'm exploring topics like NFC integration and competitive programming
 
 📫 Learn more about me: [i-hiroki.lovepop.jp](https://i-hiroki.lovepop.jp)
 
-<!--
 ### 📫 Contact
-- 🐦 X (Twitter): [@temp](https://x.com/temp)
--->
+- 🐦 X (Twitter): [@hiroki_1389](https://x.com/hiroki_1389)
+- 📝 Qiita: [@hiroki1389](https://qiita.com/hiroki1389)
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=hiroki1389" />
