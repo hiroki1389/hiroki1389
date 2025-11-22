@@ -1,11 +1,12 @@
 ## 👋 Hello! I'm Hiroki.
 
 ### 💻 About Me
-I'm a second-year graduate student majoring in Information Systems, with a strong interest in both IT and finance.  
-I enjoy working on C++ and Python projects, especially those involving algorithms, data processing, and system development.  
-Currently, I'm exploring topics like NFC integration and competitive programming.
 
-- 🎓 Graduate Student | Applied Information Technology Engineer Certified
+I am a second-year graduate student majoring in Information Systems.  
+
+My main interests lie in System Architecture, Financial IT, and Security, and I'm actively expanding my knowledge in these fields. I'm also exploring new technologies such as React for web development and Unity for VR research.
+
+- 🎓 Graduate Student | Applied Information Technology Engineer Certified | Advanced VR Engineer Certified
 - 🧠 Interested in System Architecture, Financial IT, and Security
 - 🌱 Learning React for web development and Unity for VR Reserch
 - 📚 Also studying for certifications in finance and a broad range of other fields
@@ -47,11 +48,13 @@ Currently, I'm exploring topics like NFC integration and competitive programming
 - 🏅  
 -->
 
-📫 Learn more about me: [i-hiroki.lovepop.jp](https://i-hiroki.lovepop.jp)
+<!-- 📫 Learn more about me: [i-hiroki.lovepop.jp](https://i-hiroki.lovepop.jp) -->
 
+<!-- 
 ### 📫 Contact
 - 🐦 X (Twitter): [@hiroki_1389](https://x.com/hiroki_1389)
 - 📝 Qiita: [@hiroki1389](https://qiita.com/hiroki1389)
+-->
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=hiroki1389" />
