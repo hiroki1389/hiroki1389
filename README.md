@@ -35,6 +35,7 @@ My main interests lie in System Architecture, Financial IT, and Security, and I'
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 #### 🔬 Research
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![YOLOX](https://img.shields.io/badge/-YOLOX-EE4C2C?style=flat&logo=yolo&logoColor=white)
