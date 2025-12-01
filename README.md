@@ -37,6 +37,7 @@ My main interests lie in System Architecture, Financial IT, and Security, and I'
 #### 🔬 Research
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![YOLOX](https://img.shields.io/badge/-YOLOX-EE4C2C?style=flat&logo=yolo&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 #### 🛠 Tools & Infrastructure
