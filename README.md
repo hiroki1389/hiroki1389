@@ -36,8 +36,8 @@ My main interests lie in System Architecture, Financial IT, and Security, and I'
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ### 📊 GitHub Stats
-![Hiroki's GitHub stats](https://github-readme-stats-nu-peach-44.vercel.app/api?username=Hiroki1389&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true)  
-![Top Langs](https://github-readme-stats-nu-peach-44.vercel.app/api/top-langs/?username=Hiroki1389&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true)
+![Hiroki's GitHub stats](https://github-readme-stats-nu-peach-44.vercel.app/api?username=Hiroki1389&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false&bg_color=0a0e27&title_color=70a5fd&text_color=9ecaff&icon_color=38bdf8&border_color=1e293b&count_private=true)  
+![Top Langs](https://github-readme-stats-nu-peach-44.vercel.app/api/top-langs/?username=Hiroki1389&layout=compact&theme=tokyonight&hide_border=false&bg_color=0a0e27&title_color=70a5fd&text_color=9ecaff&border_color=1e293b&count_private=true&include_all_commits=true)
 
 ### 🏆 Achievements
 
