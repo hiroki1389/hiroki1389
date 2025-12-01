@@ -1,22 +1,22 @@
-## はじめまして、Hirokiです
+## Welcome! I'm Hiroki.
 
 ### 💻 Profile
 
-- 🎓 情報システム専攻の大学院2年生
-- 🧠 システムアーキテクチャ、金融IT、セキュリティに興味あり
-- 🌱 React（Web開発）とUnity（VR研究）を学習中
-- 📚 金融関連の資格やその他幅広い分野の学習も継続中
+- 🎓 Second-year graduate student majoring in Information Systems
+- 🧠 Interested in System Architecture, Financial IT, and Security
+- 🌱 Learning React for web development and Unity for VR Research
+- 📚 Also studying for certifications in finance and a broad range of other fields
 
 
 ### 🏆 Achievements
 
 - 🎓 **Certifications**
-  - 応用情報技術者
-  - 上級VR技術者
+  - Applied Information Technology Engineer Certified
+  - Advanced VR Engineer Certified
 
-- 🛡️ **セキュリティ脆弱性報告**
-  - Webアプリケーションの脆弱性を発見し、**IPA（情報処理推進機構）**に報告しました。
-  - 情報セキュリティ早期警戒パートナーシップの有効な報告として正式に受理されました（2025年12月）。
+- 🛡️ **Security Vulnerability Reporting**
+  - Discovered and reported a web application vulnerability to **IPA (Information-technology Promotion Agency, Japan)**.
+  - Formally accepted as a valid report under the Information Security Early Warning Partnership (Dec 2025).
 
 ### 🛠 Tech Stack
 
@@ -61,3 +61,4 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=hiroki1389" />
 </div>
+
