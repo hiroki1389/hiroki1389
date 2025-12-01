@@ -12,6 +12,16 @@ My main interests lie in System Architecture, Financial IT, and Security, and I'
 - 📚 Also studying for certifications in finance and a broad range of other fields
 
 
+### 🏆 Achievements
+
+- 🎓 **Certifications**
+  - Applied Information Technology Engineer Certified
+  - Advanced VR Engineer Certified
+
+- 🛡️ **Security Vulnerability Reporting**
+  - Discovered and reported a web application vulnerability to **IPA (Information-technology Promotion Agency, Japan)**.
+  - Formally accepted as a valid report under the Information Security Early Warning Partnership (Dec 2025).
+
 ### 🛠 Tech Stack
 
 #### 🔧 Languages & Scripting
@@ -39,16 +49,6 @@ My main interests lie in System Architecture, Financial IT, and Security, and I'
 ### 📊 GitHub Stats
 ![Hiroki's GitHub stats](https://github-readme-stats-nu-peach-44.vercel.app/api?username=Hiroki1389&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false&bg_color=0a0e27&title_color=70a5fd&text_color=9ecaff&icon_color=38bdf8&border_color=1e293b&count_private=true)  
 ![Top Langs](https://github-readme-stats-nu-peach-44.vercel.app/api/top-langs/?username=Hiroki1389&layout=compact&theme=tokyonight&hide_border=false&bg_color=0a0e27&title_color=70a5fd&text_color=9ecaff&border_color=1e293b&count_private=true&include_all_commits=true)
-
-### 🏆 Achievements
-
-- 🎓 **Certifications**
-  - Applied Information Technology Engineer Certified
-  - Advanced VR Engineer Certified
-
-- 🛡️ **Security Vulnerability Reporting**
-  - Discovered and reported a web application vulnerability to **IPA (Information-technology Promotion Agency, Japan)**.
-  - Formally accepted as a valid report under the Information Security Early Warning Partnership (Dec 2025).
 
 <!-- 今稼働してないから削除
 📫 Learn more about me: [i-hiroki.lovepop.jp](https://i-hiroki.lovepop.jp) 
