@@ -6,7 +6,7 @@ I am a second-year graduate student majoring in Information Systems.
 
 My main interests lie in System Architecture, Financial IT, and Security, and I'm actively expanding my knowledge in these fields. I'm also exploring new technologies such as React for web development and Unity for VR research.
 
-- 🎓 Graduate Student | Applied Information Technology Engineer Certified | Advanced VR Engineer Certified
+- 🎓 Graduate Student
 - 🧠 Interested in System Architecture, Financial IT, and Security
 - 🌱 Learning React for web development and Unity for VR Reserch
 - 📚 Also studying for certifications in finance and a broad range of other fields
@@ -40,6 +40,10 @@ My main interests lie in System Architecture, Financial IT, and Security, and I'
 ![Top Langs](https://github-readme-stats-nu-peach-44.vercel.app/api/top-langs/?username=Hiroki1389&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true)
 
 ### 🏆 Achievements
+
+- 🎓 **Certifications**
+  - Applied Information Technology Engineer Certified
+  - Advanced VR Engineer Certified
 
 - 🛡️ **Security Vulnerability Reporting**
   - Discovered and reported a web application vulnerability to **IPA (Information-technology Promotion Agency, Japan)**.
