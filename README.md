@@ -1,6 +1,6 @@
-## 👋 Hello! I'm Hiroki.
+## Welcome! I'm Hiroki.
 
-### 💻 About Me
+### 💻 Profile
 
 I am a second-year graduate student majoring in Information Systems.  
 
