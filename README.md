@@ -49,9 +49,11 @@ My main interests lie in System Architecture, Financial IT, and Security, and I'
   - Discovered and reported a web application vulnerability to **IPA (Information-technology Promotion Agency, Japan)**.
   - Formally accepted as a valid report under the Information Security Early Warning Partnership (Dec 2025).
 
-<!-- 📫 Learn more about me: [i-hiroki.lovepop.jp](https://i-hiroki.lovepop.jp) -->
+<!-- 今稼働してないから削除
+📫 Learn more about me: [i-hiroki.lovepop.jp](https://i-hiroki.lovepop.jp) 
+-->
 
-<!-- 
+<!-- 今使ってないから削除
 ### 📫 Contact
 - 🐦 X (Twitter): [@hiroki_1389](https://x.com/hiroki_1389)
 - 📝 Qiita: [@hiroki1389](https://qiita.com/hiroki1389)
