@@ -8,7 +8,7 @@ My main interests lie in System Architecture, Financial IT, and Security, and I'
 
 - 🎓 Graduate Student
 - 🧠 Interested in System Architecture, Financial IT, and Security
-- 🌱 Learning React for web development and Unity for VR Reserch
+- 🌱 Learning React for web development and Unity for VR Research
 - 📚 Also studying for certifications in finance and a broad range of other fields
 
 
