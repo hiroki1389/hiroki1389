@@ -39,10 +39,11 @@ My main interests lie in System Architecture, Financial IT, and Security, and I'
 ![Hiroki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroki1389&show_icons=true&include_all_commits=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroki1389&layout=compact&theme=tokyonight)
 
-<!-- 
 ### 🏆 Achievements
-- 🏅  
--->
+
+- 🛡️ **Security Vulnerability Reporting**
+  - Discovered and reported a web application vulnerability to **IPA (Information-technology Promotion Agency, Japan)**.
+  - Formally accepted as a valid report under the Information Security Early Warning Partnership (Dec 2025).
 
 <!-- 📫 Learn more about me: [i-hiroki.lovepop.jp](https://i-hiroki.lovepop.jp) -->
 
